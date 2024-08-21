@@ -163,3 +163,5 @@ cython_debug/
 
 *.csv
 *.parquet
+data/yellow_tripdata_2019-01.parquet
+
